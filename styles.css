@@ -1,0 +1,15 @@
+div {
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    flex-grow: 1;
+    font-size: 20px;
+}
+
+.disable {
+    pointer-events: none;
+}
