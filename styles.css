@@ -10,6 +10,10 @@ button {
     font-size: 20px;
 }
 
+.display {
+    height: 30px;
+}
+
 .disable {
     pointer-events: none;
 }
